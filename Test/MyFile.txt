@@ -1,1 +1,2 @@
-This is My Text File
+This is My Text File, changes at the end of the file
+This is a New Line
