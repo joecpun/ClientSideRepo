@@ -1,3 +1,7 @@
 This is My Text File, changes at the end of the file
 This is a New Line
+<<<<<<< HEAD
 This is the bug fix
+=======
+This is Bug Fix 2
+>>>>>>> refs/remotes/origin/BugFix
